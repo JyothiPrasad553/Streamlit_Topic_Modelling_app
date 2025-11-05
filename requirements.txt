@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+pandas
+vaderSentiment
+scikit-learn
+openai
+bcrypt
+python-multipart
+Pillow

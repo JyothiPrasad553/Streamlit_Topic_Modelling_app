@@ -1,0 +1,3 @@
+Method,Accuracy (%),Time (s)
+Classical (Unsupervised),72.50,1.80
+LLM,89.30,4.60
