@@ -1,4 +1,6 @@
 Parallel Text Processing & Sentiment Benchmarking App
+
+
 This is a full-stack Streamlit web application for high-speed text analysis, featuring a complete user authentication system and parallel processing. It allows users to create secure accounts, upload text data, and benchmark the performance (Speed vs. Accuracy) of classical NLP models (VADER) against modern Large Language Models (OpenAI GPT-3.5).
 The app's backend uses Python's multiprocessing library to run heavy NLP tasks on all available CPU cores, and smtplib to send automated email reports.
 🚀 Core Features
